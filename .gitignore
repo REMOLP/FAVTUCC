@@ -1,7 +1,5 @@
 *.mp4
-./tempvids/*.mp4
-./filestomerge.txt
-./__pycache__/
-./__new.txt
+tempvids/*.mp4
+__pycache__/
 __new.txt
 filestomerge.txt
