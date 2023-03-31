@@ -45,12 +45,12 @@ def checkArgs():
     takenArgs = sys.argv
 
     if len(takenArgs) <= 1:
-		print("FAVTUCC aka stupid and completely random clipping program made because of boredom.\n")
-		print("Possible arguments:")
-		print("\t-D    [EXPERIMENTAL] uses parse_and_check_new_yt_vid function to check for a new video and download it automatically from a specified channel")
-		print("\t-d    download a YT video without writing that long-ass command :)")
-		print("\t-c    choose a channel from channels.json file (zero-based index)\n")
-    
+        print("FAVTUCC aka stupid and completely random clipping program made because of boredom.\n")
+        print("Possible arguments:")
+        print("\t-D    [EXPERIMENTAL] uses parse_and_check_new_yt_vid function to check for a new video and download it automatically from a specified channel")
+        print("\t-d    download a YT video without writing that long-ass command :)")
+        print("\t-c    choose a channel from channels.json file (zero-based index)\n")
+
         print("-c argument is required.")
         sys.exit(0)
 
