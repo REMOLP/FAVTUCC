@@ -1,4 +1,4 @@
 *.mp4
 ./tempvids/*.mp4
 ./filestomerge.txt
-./__pycache__/
+./__pycache__/*.*
