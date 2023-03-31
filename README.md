@@ -25,7 +25,7 @@ Literally git clone this repo.
 
 **DO NOT USE -D and -d parameters! I did not implemented these two and thus they do not work!**
 
-Before using it, make sure that the input mp4 file is named exactly 'orginput.mp4' and that the folder 'tempvids' exist (if not, create one yourself). Otherwise computor will go cry and make a sad face :(
+Before using it, make sure that the input mp4 file is named exactly 'orginput.mp4' and that the folder 'tempvids' exists (if not, create one yourself). Otherwise computor will go cry and make a sad face :(
 Basic usage:
 ```bash
 python main.py -c 0 default
